@@ -22,4 +22,5 @@ jupyter notebook main.ipynb
 ```
 
 Run the last three cells of the notebook and you'll get the following output.
+
 ![Output](draw_emnist_demo.gif)

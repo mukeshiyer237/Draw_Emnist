@@ -13,7 +13,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-If you're using the pre-trained model, then follow these steps.
+If you're using the **pre-trained model**, then follow these steps.
 
 ```bash
 git clone https://github.com/mukeshiyer237/draw_emnist.git
@@ -24,3 +24,6 @@ jupyter notebook main.ipynb
 Run the last three cells of the notebook and you'll get the following output.
 
 ![Output](draw_emnist_demo.gif)
+
+If you wist to train your own model, then run all the cells in the notebook. (I'd suggest you to use google colab's gpu to train the model as the dataset is quite huge)
+

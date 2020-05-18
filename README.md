@@ -1,4 +1,4 @@
-# Draw_Emnist
+# draw_emnist
 
 This repository contains code that enables users to hand-draw and classify alphabets (a-z) using deep learning. This model is trained using the EMNIST data set.
 

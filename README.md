@@ -24,7 +24,8 @@ jupyter notebook main.ipynb
 Run the last three cells of the notebook and you'll get the following output.
 
 ![Output](draw_emnist_demo.gif)
-(Use **Esc** button to close the window.)
+
+(Use *Esc* button to close the **Image window**.)
 
 
 If you wist to train your own model, then run all the cells in the notebook. (I'd suggest you to use google colab's gpu to train the model as the dataset is quite huge)

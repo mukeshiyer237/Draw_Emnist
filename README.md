@@ -8,6 +8,8 @@ This repository contains code that enables users to hand-draw and classify alpha
 The following bash code will install all the necessary dependencies.
 
 ```bash
+git clone https://github.com/mukeshiyer237/draw_emnist.git
+cd draw_emnit
 pip install -r requirements.txt
 ```
 
@@ -16,8 +18,6 @@ pip install -r requirements.txt
 If you're using the **pre-trained model**, then follow these steps.
 
 ```bash
-git clone https://github.com/mukeshiyer237/draw_emnist.git
-cd draw_emnit
 jupyter notebook main.ipynb
 ```
 
